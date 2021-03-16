@@ -19,7 +19,7 @@ def load():
         file.close()
     except:
         db = {}
-
+µÎ¹øÂ°
 def save():
     global db
     file = open('url.db', 'wb')
